@@ -1,0 +1,13 @@
+{
+  "firstName": "Freddy",
+  "lastName": "Krueger",
+  "email": "nightynight@email.com",
+  "gender": "Male",
+  "phone": "0123456789",
+  "dateOfBirth": "11/1/2010",
+  "subjects": ["Arts", "Biology"],
+  "hobbies": "Sports",
+  "address": "Elmstreet 1428",
+  "state": "Haryana",
+  "city": "Karnal"
+}
