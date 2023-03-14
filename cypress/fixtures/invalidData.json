@@ -1,7 +1,0 @@
-{
-  "firstName": ["", " ", 123],
-  "lastName": ["", " ", 456],
-  "email": ["", " ", "invalidemail.com", "invalid@", ".com", 789],
-  "phone": ["", " ", "01234567", "001234567899", "aloha"],
-  "address": ["", " ", 123]
-}
